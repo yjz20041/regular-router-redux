@@ -1,0 +1,19 @@
+{
+  "name": "regular-router-redux",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yjz20041/regular-router-redux.git"
+  },
+  "author": "hzyangjiezheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yjz20041/regular-router-redux/issues"
+  },
+  "homepage": "https://github.com/yjz20041/regular-router-redux#readme"
+}
